@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-publisher",
+  "version": "1.0.2",
+  "author": "sunlley",
+  "keywords": [
+    "npm",
+    "publisher",
+    "template",
+    "typescript"
+  ],
+  "description": "An npm publishing template.",
+  "repository": {
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "bugs": {
+    "url": "https://github.com/sunlley/lia-template-publisher/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

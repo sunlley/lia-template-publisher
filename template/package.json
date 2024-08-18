@@ -1,0 +1,20 @@
+{
+  "name": "template-publisher",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*",
+    "dist/*",
+    "dist"
+  ],
+  "nodemonConfig": {
+    "watch": [
+      "./src/**/*"
+    ],
+    "ignore": [
+      "test/**/*",
+      "test/*",
+      "/src/index.ts"
+    ]
+  }
+}
