@@ -3,6 +3,11 @@
 # tools
 .idea
 .DS_Store
+.vscode/
+node_modules/
+build/
+*.tgz
+*.ts.bak
 
 # dependencies
 /node_modules
