@@ -7,6 +7,7 @@ For example:
 
 build your package
 ```sh
+npm run cindex
 npm run build
 ```
 
