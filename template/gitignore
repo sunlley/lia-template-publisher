@@ -8,6 +8,7 @@ node_modules/
 build/
 *.tgz
 *.ts.bak
+.git
 
 # dependencies
 /node_modules
